@@ -10,7 +10,7 @@ function LandingPage() {
 
   return (
     <div>
-      LandingPage~
+      LandingPage!
     </div>
   )
 }
